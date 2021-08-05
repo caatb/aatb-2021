@@ -1,5 +1,6 @@
 # Supercomputing 2019 Architecture Testbed BoF
 _Approximate Attendees: ~50_
+[SC19 BoF webpage](https://sc19.supercomputing.org/proceedings/bof/bof_pages/bof227.html)
 
 These notes represent some subset of the discussion and questions for the BoF held in Denver, Colorado during SC 2019. 
 
