@@ -4,6 +4,8 @@ This Birds of Feather session will be held on Wednesday, November 17th, 2021 at 
 
 [SC21 BoF webpage](https://sc21.supercomputing.org/presentation/?id=bof140&sess=sess385)
 
+You can interact with the panel via Zoom, and we will share a Sli.do link you can use to ask questions of the panel.
+
 ## Panelists: 
 * Alice Koniges - [Maui High Performance Computing Center](https://www.mhpcc.hpc.mil/) 
 * Kevin Barker - Pacific Northwest National Laboratory - [CENATE](https://www.pnnl.gov/projects/cenate)
@@ -12,12 +14,15 @@ This Birds of Feather session will be held on Wednesday, November 17th, 2021 at 
 * Jim Laros - Sandia National Laboratories - [HAAPS](https://www.sandia.gov/asc/advanced-simulation-and-computing/computational-systems/haaps/)
 * Jeffrey Young - Georgia Tech - [Rogues Gallery](https://crnch-rg.cc.gatech.edu/)
 
-## Seed Questions for Discussion
+## Questions for the Panel
+
 1) What has the COVID pandemic taught us about supporting remote users for our testbeds? Do we still require "hands on" testing for some equipment, or can we manage most novel architectures remotely?
 2) Have we learned anything interesting or unique about how users are interacting with these testbeds now that has changed in the past 2-3 years? Any new trends in HW or tool requests?
-3) Has the arrival of exascale computing changed your testbed's focus in any way? Where do you see important developments over the next 3-5 years?
+3) What kind of security requirements do new types of applications and data sets introduce for testbeds? For example, can we tackle accelerating healthcare analytics with our current or novel architectures? What requirements might we need to be able to handle this data securely?
+4) Has the arrival of exascale computing changed your testbed's focus in any way? Where do you see important developments over the next 3-5 years?
 
 
+We also include some questions from previous BoFs to use as seed questions for further discussion.
 
 ### Questions around scale:
 * What is the optimal size for a testbed given financial constraints and why?
