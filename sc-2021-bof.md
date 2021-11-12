@@ -7,10 +7,10 @@ This Birds of Feather session will be held on Wednesday, November 17th, 2021 at 
 You can interact with the panel via Zoom, and we will share a Sli.do link you can use to ask questions of the panel.
 
 ## Panelists: 
-* Alice Koniges - [Maui High Performance Computing Center](https://www.mhpcc.hpc.mil/) 
 * Kevin Barker - Pacific Northwest National Laboratory - [CENATE](https://www.pnnl.gov/projects/cenate)
 * Mark Klein - [CSCS](https://www.cscs.ch/) 
-* Jeff Vetter - ORNL - [ExCL](https://excl.ornl.gov/)
+* Alice Koniges - [Maui High Performance Computing Center](https://www.mhpcc.hpc.mil/) 
+* Jeff Vetter - Oak Ridge National Laboratory - [ExCL](https://excl.ornl.gov/)
 * Jim Laros - Sandia National Laboratories - [HAAPS](https://www.sandia.gov/asc/advanced-simulation-and-computing/computational-systems/haaps/)
 * Jeffrey Young - Georgia Tech - [Rogues Gallery](https://crnch-rg.cc.gatech.edu/)
 
