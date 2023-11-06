@@ -1,8 +1,8 @@
 ## Advanced Architecture Birds of Feather Landing page
 
-This website provides the public face for Birds of Feather events for advanced architecture testbed Birds of Feather sessions at SC 2021. Please check back shortly for an agenda and timing!
+This website provides the public face for Birds of Feather events for advanced architecture testbed Birds of Feather sessions at the Supercomputing conference.
 
-### SC2021 Advanced Architecture Testbeds BoF
-See our [2021 BoF page](sc-2021-bof.md) - this event is happening virtually on November 17th, 2021 at 12:15 US CST!
+### SC2023 Advanced Architecture Testbeds BoF
+Please See our [2023 BoF page](sc-2023-bof.md) page.
 
 You can also revisit information on some of our previous BoFs [2019](https://github.com/caatb/aatb-bofs/blob/gh-pages/sc-2019-bof.md) and [2018](https://github.com/caatb/aatb-bofs/blob/gh-pages/sc-2018-bof.md) and also links to several [advanced architecture testbeds and the resources they offer](https://github.com/caatb/testbed-resources/blob/main/README.md).
