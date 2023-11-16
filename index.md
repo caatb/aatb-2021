@@ -8,7 +8,7 @@ This website provides the public face for Birds of Feather events for advanced a
 November 16th, 12:15-1:15 MST
 Room: 704-706
 
-[SC23 BoF webpage]([https://sc21.supercomputing.org/presentation/?id=bof140&sess=sess385](https://sc23.conference-program.com/presentation/?id=bof157&sess=sess404))
+[SC23 BoF webpage](https://sc23.conference-program.com/presentation/?id=bof157&sess=sess404)
 
 Please remember to review the BoF, if you attended!
 
