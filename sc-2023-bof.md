@@ -27,4 +27,11 @@ Please remember to review the BoF, if you attended!
 
 ## Questions for the Panel
 
+1) What are the goals of your testbed program?
+2) How are your testbeds being prepared for exascale and post-exascale evaluations?
+    - (optional) If you could change one architectural component of your test bed to make it better, what would this component be and why?
+3) How are you envisioning using your testbeds to embrace co-design?
+4) What strategies are you using to evaluate AI workloads, especially with the influx of new AI accelerators? 
+5) Lessons learned: Can you share the key successes and challenges experienced during your testbed programs?
+
 We also include some questions from previous BoFs to use as seed questions for further discussion.
