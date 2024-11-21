@@ -32,7 +32,7 @@ _Please remember to review the BoF, if you attend! Use the "Give Feedback" butto
 
 We also include some questions from previous BoFs to use as seed questions for further discussion.
 
-1) What are the goals of your testbed program?
+1) What are the goals of your testbed program?  
 2) How are you envisioning using your testbeds to evaluate energy **efficient computing technologies**?  
 3) How are your testbeds being prepared for post-exascale evaluations?  
     - (optional) If you could change one architectural component of your test bed to make it better, what would this component be and why?  
