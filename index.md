@@ -15,7 +15,7 @@ _Please remember to review the BoF, if you attend! Use the "Give Feedback" butto
 ## Panelists: 
 
 - [Marco Aldinucci](https://sc24.conference-program.com/presenter/?uid=783393) - University of Torino
-    - *No Slides Available*
+    - [Software and Integration Lab Slides](https://github.com/caatb/aatb-bofs/blob/3f71f3e6f980b725d3bf4c5922847ffa6b6c6f90/presentations/2024/maldinucci_et_al_Software_and_Integration_Lab_aatb_bof_sc24.pdf)
 - [Fillipo Mantovani](https://sc24.conference-program.com/presenter/?uid=959363) - Barcelona Supercomputing Center (BSC)
     - [SDV Testbed Slides](https://github.com/caatb/aatb-bofs/blob/178760cc0f370b0fe7c4501e34986d418a3a3091/presentations/2024/fmantovani_SDV_RISCV_Testbed_aatb_bof_sc2024.pdf)
 - [Murali Emani](https://sc24.conference-program.com/presenter/?uid=799183) - Argonne National Lab, ALCF
